@@ -38,7 +38,7 @@ function showTime() {
         case 6:
             day = "Cumartesi";
             break;
-        case 7:
+        case 0:
             day = "Pazar";
     }
     myClock.innerHTML = `${hour}:${min}:${sec} ${day}`;
