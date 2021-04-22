@@ -146,17 +146,3 @@ function menuList(menuobj){
 
 menuList(menu);
 
-/* let category = "Japan"
-let itemfilter = menu.filter((item) => {
-  return item.category == category;
-})
-console.log(itemfilter);
-
-function itemfilterr(category) {
-  let itemfilter = menu.filter((item) => {
-    return item.category == category;
-  })
-  console.log(itemfilter);
-}
-
-itemfilterr("China"); */
